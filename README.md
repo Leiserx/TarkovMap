@@ -3,6 +3,9 @@
 联机功能的话只写了linux服务器的一键脚本，需要windows用的话可以搭配内网穿透和让ai手搓一个windows的websocket服务就行了。具体的接口传参格式参考下服务端的sh脚本。
 
 逃离塔科夫工具使用说明
+大概长这样
+<img width="807" height="668" alt="image" src="https://github.com/user-attachments/assets/c22850a9-56f3-4cbf-bcb9-27ccd868147a" />
+
 ## 设置页面介绍
 用户名称：这个主要是用来多人联机时地图上会展示出你的位置+名称。
 
