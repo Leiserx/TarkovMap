@@ -10,6 +10,7 @@
 用户名称：这个主要是用来多人联机时地图上会展示出你的位置+名称。
 
 拓展定位网页：我倾向于局域网内使用，用平板浏览器打开可以看到玩家位置和任务位置信息。
+<img width="2560" height="1439" alt="image" src="https://github.com/user-attachments/assets/020b667c-53db-452f-ac28-fe1ec791fffd" />
 
 派系选择：有些任务是派系专属的，随便选都行。
 
